@@ -19,6 +19,9 @@ O e-book traz dicas de alimentos saudáveis bem como composição nutricional de
 🚀 Resultados
 Foram várias interações com o chatgpt para chegar no resultado final, sendo alguns pontos refinado mais de uma vez.
 
-Foto: ![Foto 2x3 Kling_ebook nutrição](https://github.com/user-attachments/assets/9d0d178d-479a-436c-8bb5-635be006fa29)
 E-book: [E-Book Nutrição.pptx](https://github.com/user-attachments/files/18450816/E-Book.Nutricao.pptx)
+
 Prompts: [Prompts_ebook_nutrição.docx](https://github.com/user-attachments/files/18450868/Prompts_ebook_nutricao.docx)
+
+Foto: ![Foto 2x3 Kling_ebook nutrição](https://github.com/user-attachments/assets/9d0d178d-479a-436c-8bb5-635be006fa29)
+
