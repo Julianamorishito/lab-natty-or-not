@@ -16,7 +16,8 @@ O e-book traz concientização da importancia da gestao ambiental bem como dá d
 
 🚀 Resultados Foram várias interações com o chatgpt para chegar no resultado final, sendo alguns pontos refinado mais de uma vez.
 
-EBOOK:
+EBOOK:[E-Book Gestão Ambiental.pptx](https://github.com/user-attachments/files/18451075/E-Book.Gestao.Ambiental.pptx)
+
 Prompts:[Prompts_ebook_gestão ambiental.docx](https://github.com/user-attachments/files/18451047/Prompts_ebook_gestao.ambiental.docx)
 
 Foto:![Foto 2x3 Kling_EBOOK getao ambiental](https://github.com/user-attachments/assets/e3239f73-886a-4baa-80c6-20cbab15739d)
